@@ -10,7 +10,7 @@ clock = pygame.time.Clock()
 
 font = pygame.font.SysFont("Lucida", 32)
 
-radius = 20
+radius = 15
 
 balls = []
 for b in range(2050):
